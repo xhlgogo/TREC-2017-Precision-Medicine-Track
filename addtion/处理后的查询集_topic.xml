@@ -1,0 +1,210 @@
+  <TOP>
+    <num>1<num>
+    <disease>Liposarcoma
+    <gene>CDK4 Amplification
+    <demographic>38-year-old male
+    <other>GERD
+  </TOP>
+  <TOP>
+    <num>2<num>
+    <disease>Colon cancer
+    <gene>KRAS (G13D), BRAF (V600E)
+    <demographic>52-year-old male
+    <other>Type II Diabetes, Hypertension
+  </TOP>
+  <TOP>
+    <num>3<num>
+    <disease>Meningioma
+    <gene>NF2 (K322), AKT1(E17K)
+    <demographic>45-year-old female
+    <other>None
+  </TOP>
+  <TOP>
+    <num>4<num>
+    <disease>Breast cancer
+    <gene>FGFR1 Amplification, PTEN (Q171)
+    <demographic>67-year-old female
+    <other>Depression, Hypertension, Heart Disease
+  </TOP>
+  <TOP>
+    <num>5<num>
+    <disease>Melanoma
+    <gene>BRAF (V600E), CDKN2A Deletion
+    <demographic>45-year-old female
+    <other>None
+  </TOP>
+  <TOP>
+    <num>6<num>
+    <disease>Melanoma
+    <gene>NRAS (Q61K)
+    <demographic>55-year-old male
+    <other>Hypertension
+  </TOP>
+  <TOP>
+    <num>7<num>
+    <disease>Lung cancer
+    <gene>EGFR (L858R)
+    <demographic>50-year-old female
+    <other>Lupus
+  </TOP>
+  <TOP>
+    <num>8<num>
+    <disease>Lung cancer
+    <gene>EML4-ALK Fusion transcript
+    <demographic>52-year-old male
+    <other>Hypertension, Osteoarthritis
+  </TOP>
+  <TOP>
+    <num>9<num>
+    <disease>Gastrointestinal stromal tumor
+    <gene>KIT Exon 9 (A502_Y503dup)
+    <demographic>49-year-old female
+    <other>None
+  </TOP>
+  <TOP>
+    <num>10<num>
+    <disease>Lung adenocarcinoma
+    <gene>KRAS (G12C)
+    <demographic>61-year-old female
+    <other>Hypertension, Hypercholesterolemia
+  </TOP>
+  <TOP>
+    <num>11<num>
+    <disease>Gastric cancer
+    <gene>PIK3CA (E545K)
+    <demographic>54-year-old male
+    <other>Depression
+  </TOP>
+  <TOP>
+    <num>12<num>
+    <disease>Colon cancer
+    <gene>BRAF (V600E)
+    <demographic>35-year-old male
+    <other>None
+  </TOP>
+  <TOP>
+    <num>13<num>
+    <disease>Cholangiocarcinoma
+    <gene>BRCA2
+    <demographic>72-year-old male
+    <other>Diabetes
+  </TOP>
+  <TOP>
+    <num>14<num>
+    <disease>Cholangiocarcinoma
+    <gene>IDH1 (R132H)
+    <demographic>64-year-old male
+    <other>Neuropathy
+  </TOP>
+  <TOP>
+    <num>15<num>
+    <disease>Cervical cancer
+    <gene>STK11
+    <demographic>26-year-old female
+    <other>None
+  </TOP>
+  <TOP>
+    <num>16<num>
+    <disease>Pancreatic cancer
+    <gene>CDKN2A
+    <demographic>54-year-old male
+    <other>Diabetes, Hypertension
+  </TOP>
+  <TOP>
+    <num>17<num>
+    <disease>Prostate cancer
+    <gene>PTEN Inactivating
+    <demographic>81-year-old male
+    <other>Hypertension, Depression
+  </TOP>
+  <TOP>
+    <num>18<num>
+    <disease>Pancreatic cancer
+    <gene>CDK6 Amplification
+    <demographic>48-year-old male
+    <other>None
+  </TOP>
+  <TOP>
+    <num>19<num>
+    <disease>Colorectal cancer
+    <gene>FGFR1 Amplification
+    <demographic>35-year-old female
+    <other>None
+  </TOP>
+  <TOP>
+    <num>20<num>
+    <disease>Liposarcoma
+    <gene>MDM2 Amplification
+    <demographic>26-year-old male
+    <other>None
+  </TOP>
+  <TOP>
+    <num>21<num>
+    <disease>Lung adenocarcinoma
+    <gene>ALK Fusion
+    <demographic>64-year-old female
+    <other>Emphysema
+  </TOP>
+  <TOP>
+    <num>22<num>
+    <disease>Lung cancer
+    <gene>ERBB2 Amplification
+    <demographic>70-year-old male
+    <other>Arthritis
+  </TOP>
+  <TOP>
+    <num>23<num>
+    <disease>Breast cancer
+    <gene>PTEN Loss
+    <demographic>54-year-old female
+    <other>Congestive Heart Failure
+  </TOP>
+  <TOP>
+    <num>24<num>
+    <disease>Lung cancer
+    <gene>NTRK1
+    <demographic>58-year-old female
+    <other>Depression, Hypertension, Diabetes
+  </TOP>
+  <TOP>
+    <num>25<num>
+    <disease>Lung adenocarcinoma
+    <gene>MET Amplification
+    <demographic>48-year-old male
+    <other>Emphysema
+  </TOP>
+  <TOP>
+    <num>26<num>
+    <disease>Breast cancer
+    <gene>NRAS Amplification
+    <demographic>35-year-old female
+    <other>None
+  </TOP>
+  <TOP>
+    <num>27<num>
+    <disease>Pancreatic adenocarcinoma
+    <gene>KRAS, TP53
+    <demographic>49-year-old female
+    <other>None
+  </TOP>
+  <TOP>
+    <num>28<num>
+    <disease>Pancreatic ductal adenocarcinoma
+    <gene>ERBB3
+    <demographic>73-year-old female
+    <other>Whipple, FNA
+  </TOP>
+  <TOP>
+    <num>29<num>
+    <disease>Ampullary carcinoma
+    <gene>KRAS
+    <demographic>61-year-old male
+    <other>None
+  </TOP>
+  <TOP>
+    <num>30<num>
+    <disease>Pancreatic adenocarcinoma
+    <gene>RB1, TP53, KRAS
+    <demographic>57-year-old female
+    <other>None
+  </TOP>
